@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/abdulkareemm/Gym-Website/static/css/main.d78bc7cf.css",
-    "main.js": "/abdulkareemm/Gym-Website/static/js/main.cc972159.js",
+    "main.css": "/abdulkareemm/Gym-Website/static/css/main.75273646.css",
+    "main.js": "/abdulkareemm/Gym-Website/static/js/main.15fad0e5.js",
     "static/media/bg.png": "/abdulkareemm/Gym-Website/static/media/bg.aa9add829b9ddaab15ca.png",
     "static/media/woman.png": "/abdulkareemm/Gym-Website/static/media/woman.afe487a6399eecfa1aa7.png",
     "static/media/img4.png": "/abdulkareemm/Gym-Website/static/media/img4.3f2b41a180f0b0e9b539.png",
@@ -25,11 +25,11 @@
     "static/media/chevron-right.svg": "/abdulkareemm/Gym-Website/static/media/chevron-right.ae85113b06761a88ab09.svg",
     "static/media/bg.svg": "/abdulkareemm/Gym-Website/static/media/bg.961c9b88ebbc79d7640f.svg",
     "static/media/chevron-left.svg": "/abdulkareemm/Gym-Website/static/media/chevron-left.ee052a4155bc092262df.svg",
-    "main.d78bc7cf.css.map": "/abdulkareemm/Gym-Website/static/css/main.d78bc7cf.css.map",
-    "main.cc972159.js.map": "/abdulkareemm/Gym-Website/static/js/main.cc972159.js.map"
+    "main.75273646.css.map": "/abdulkareemm/Gym-Website/static/css/main.75273646.css.map",
+    "main.15fad0e5.js.map": "/abdulkareemm/Gym-Website/static/js/main.15fad0e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d78bc7cf.css",
-    "static/js/main.cc972159.js"
+    "static/css/main.75273646.css",
+    "static/js/main.15fad0e5.js"
   ]
 }
