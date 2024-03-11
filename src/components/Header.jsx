@@ -15,14 +15,13 @@ const Header = () => {
   // nav mobile state
   const [navMobile, setNavmobile] = useState(false);
 
-  const { btnLoginText, btnSignupText, logo } = header;
+  const { logo } = header;
 
-
-  useEffect(()=>{
-window.addEventListener('scroll',()=>{
-  window.scrollY>80?setIsAvtive(true):setIsAvtive(false)
-})
-  },[])
+  useEffect(() => {
+    window.addEventListener("scroll", () => {
+      window.scrollY > 80 ? setIsAvtive(true) : setIsAvtive(false);
+    });
+  }, []);
   return (
     <header
       className={`${

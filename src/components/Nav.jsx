@@ -12,7 +12,7 @@ const Nav = () => {
           return (
             <li key={index}>
               <a
-                className="text-white text-body-sm px-2  hover:bg-white hover:text-black"
+                className="text-white text-body-sm px-2 py-0.5 rounded-md  hover:bg-white hover:text-black"
                 href={item.href}
               >
                 {item.name}
