@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/abdulkareemm/Gym-Website/static/css/main.d78bc7cf.css",
+    "main.js": "/abdulkareemm/Gym-Website/static/js/main.cc972159.js",
+    "static/media/bg.png": "/abdulkareemm/Gym-Website/static/media/bg.aa9add829b9ddaab15ca.png",
+    "static/media/woman.png": "/abdulkareemm/Gym-Website/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/img4.png": "/abdulkareemm/Gym-Website/static/media/img4.3f2b41a180f0b0e9b539.png",
+    "static/media/img3.png": "/abdulkareemm/Gym-Website/static/media/img3.76cafac0275672eee799.png",
+    "static/media/img1.png": "/abdulkareemm/Gym-Website/static/media/img1.a5400d538dc08bb9c485.png",
+    "static/media/battle-rope.png": "/abdulkareemm/Gym-Website/static/media/battle-rope.f0e838feb90e5240e67b.png",
+    "static/media/fitness.png": "/abdulkareemm/Gym-Website/static/media/fitness.40c4aecb2995e4d21467.png",
+    "static/media/img2.png": "/abdulkareemm/Gym-Website/static/media/img2.f49950ea6082a8572af4.png",
+    "static/media/body-pump.png": "/abdulkareemm/Gym-Website/static/media/body-pump.db655530d82349eb4cbb.png",
+    "static/media/yoga.png": "/abdulkareemm/Gym-Website/static/media/yoga.e95806de96273a0c68d4.png",
+    "static/media/full-body.png": "/abdulkareemm/Gym-Website/static/media/full-body.88337db51a52afbb3ceb.png",
+    "static/media/resistance.png": "/abdulkareemm/Gym-Website/static/media/resistance.011df5b9669edc4f464d.png",
+    "static/media/boxing.png": "/abdulkareemm/Gym-Website/static/media/boxing.04062eac3922c5d3517d.png",
+    "static/media/logo.svg": "/abdulkareemm/Gym-Website/static/media/logo.6705e9395036155b8061dd44378e56e7.svg",
+    "static/media/calendar.svg": "/abdulkareemm/Gym-Website/static/media/calendar.eb97a1143885949219d9cff8faa26cce.svg",
+    "static/media/price.svg": "/abdulkareemm/Gym-Website/static/media/price.2a3609b15219883b22c86446fcece7df.svg",
+    "static/media/users-icn.svg": "/abdulkareemm/Gym-Website/static/media/users-icn.029124c1ae616c257334677943671696.svg",
+    "static/media/community-icn.svg": "/abdulkareemm/Gym-Website/static/media/community-icn.cdc6f318d7fe1224a214cc3487c39481.svg",
+    "index.html": "/abdulkareemm/Gym-Website/index.html",
+    "static/media/question-mark.svg": "/abdulkareemm/Gym-Website/static/media/question-mark.fa73edbd46a5cfd7ffc58b852e479401.svg",
+    "static/media/chevron-right.svg": "/abdulkareemm/Gym-Website/static/media/chevron-right.ae85113b06761a88ab09.svg",
+    "static/media/bg.svg": "/abdulkareemm/Gym-Website/static/media/bg.961c9b88ebbc79d7640f.svg",
+    "static/media/chevron-left.svg": "/abdulkareemm/Gym-Website/static/media/chevron-left.ee052a4155bc092262df.svg",
+    "main.d78bc7cf.css.map": "/abdulkareemm/Gym-Website/static/css/main.d78bc7cf.css.map",
+    "main.cc972159.js.map": "/abdulkareemm/Gym-Website/static/js/main.cc972159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78bc7cf.css",
+    "static/js/main.cc972159.js"
+  ]
+}
