@@ -26,12 +26,12 @@ export const header = {
 };
 
 export const nav = [
-  { name: 'Home', href: '/' },
-  { name: 'About', href: '/' },
-  { name: 'Workouts', href: '/' },
-  { name: 'Pricing', href: '/' },
-  { name: 'Community', href: '/' },
-  { name: 'FAQ', href: '/' },
+  { name: 'Home', href: '' },
+  { name: 'About', href: '' },
+  { name: 'Workouts', href: '' },
+  { name: 'Pricing', href: '' },
+  { name: 'Community', href: '' },
+  { name: 'FAQ', href: '' },
 ];
 
 export const banner = {
