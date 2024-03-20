@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import countapi from "countapi-js";
+import React from "react";
 
 // import aos
 import Aos from 'aos';
@@ -9,12 +8,7 @@ import 'aos/dist/aos.css';
 import { About, Banner, Community, Faq, Footer, Header, Join, Pricing, Workouts } from "./components"
 
 const App = () => {
-  const [visitors,setVisitors] = useState(0)
-
-  countapi.visits("global").then((result) => {
-    console.log("value :",result.value)
-    setVisitors(result.value);
-  });
+  
   // aos initialization
   Aos.init({
     duration:2500,
@@ -30,7 +24,7 @@ const App = () => {
       <Community />
       <Faq />
       <Join />
-      <Footer visitors ={visitors}/>
+      <Footer />
     </div>
   );
 };
