@@ -12,6 +12,7 @@ const App = () => {
   const [visitors,setVisitors] = useState(0)
 
   countapi.visits("global").then((result) => {
+    console.log("value :",result.value)
     setVisitors(result.value);
   });
   // aos initialization
